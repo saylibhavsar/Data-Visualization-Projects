@@ -4,7 +4,7 @@ Public Portfolio for Data Visualization Projects
 * Find my live site here: https://saylibhavsar.github.io/Data-Visualization-Projects/
 * This repository: https://github.com/saylibhavsar/Data-Visualization-Projects/
 
-## **About** me
+## **About me**
 I have a background focused on data analytics, consulting, and project management, with hands-on experience in tools like Alteryx and Smartsheet. Recently during my internship at KPMG, I focused on automating processes and solving data challenges, particularly in bank reconciliation projects. Currently, as a graduate student at CMU, I'm expanding my expertise in data storytelling to enhance my ability to communicate insights and drive impactful decisions.
 
 ## **Portfolio**
