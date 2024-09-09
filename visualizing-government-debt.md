@@ -71,4 +71,4 @@ This graph presents the general government debt as a percentage of GDP for vario
 For this assignment, I chose the bar chart because it directly compares the government debt in 2008 and 2018, which is crucial for understanding regional recovery after the global financial crisis. It provides a clear, focused visualization without overwhelming the viewer with too much information. 
 
 **Sources:**
-[OECD Data Explorer]((https://data.oecd.org/gga/general-government-debt.htm))
+[OECD Data Explorer](https://data.oecd.org/gga/general-government-debt.htm)
