@@ -1,15 +1,14 @@
 | [home page](https://saylibhavsar.github.io/Data-Visualization-Projects/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Visualizing Government Debt
-
-## Part 1 - Working With Tableau (Heat Map)
-
+<br>
+## Part 1 - Working with web-based visualization tools and data (OECD)
 <img src="Images/government-debt.png" alt="Government Debt OECD" width="900" align="center"/>
 > Graph by <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html">OECD</a>, Source <a href="https://data-explorer.oecd.org/vis?lc=en&ac=false&tm=DF_GOV_PF_YU&pg=0&snb=1&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_GOV%40DF_GOV_PF_YU&df[ag]=OECD.GOV.GIP&df[vs]=&pd=2007%2C&dq=A.AUT.....&to[TIME_PERIOD]=false">OECD Data Explorer</a>
 
 * This graph shows the General government debt as a % of GDP (2022) from the OECD official website.
 * The chart compares the debt of the different countries and sorts them in descending order, making it easy to see which countries have the most debt.
-* The chart highlights the OECD average (a common benchmark in such graphs), making it easy to understand which countries are above or below the average.
+* The chart highlights the OECD average, making it easy to understand which countries are above or below the average.
 
 <br>
 
@@ -48,7 +47,7 @@ This graph presents the general government debt as a percentage of GDP for vario
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
+<br>
 **In terms of the design:**
 * The years 2008 and 2018 are displayed for each region to compare the two time periods.
 * Each bar is labeled with the exact percentage, making it easy for viewers to see the debt levels without having to estimate from the axis.
@@ -71,5 +70,5 @@ This graph presents the general government debt as a percentage of GDP for vario
 * My third visualization, a bar chart, compares debt levels across world regions for 2008 and 2018. It uses two distinct colors to highlight changes over the decade, making it simple to compare specific years. The bar chart is effective for showcasing the specific use case (distinct comparisons between years and regions) but lacks the granularity of the heat map, which covers a much broader time frame and individual countries. The clarity and simplicity of this visualization, however, make it a better choice for a focused analysis of the global financial crisis's impact a decade later.
 For this assignment, I chose the bar chart because it directly compares the government debt in 2008 and 2018, which is crucial for understanding regional recovery after the global financial crisis. It provides a clear, focused visualization without overwhelming the viewer with too much information. 
 
-Sources:
-OECD Data Explorer (https://data.oecd.org/gga/general-government-debt.htm)
+**Sources:**
+[OECD Data Explorer]((https://data.oecd.org/gga/general-government-debt.htm))
