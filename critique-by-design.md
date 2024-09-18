@@ -49,7 +49,7 @@ From the critique, I gained insight into the importance of balancing aesthetics 
 <br>
 
 ## Part 3 - Sketch Out a Solution
-<br>
+
 I went with my recommendations of switching to a bar (benchmark) chart and also grouped states into categories (allowing users to focus on the specific area of the graph). Here is my early draft in tableau:
 <br>
 <img src="Images/Initial_soln_price_parity.png" alt="Re-designed Regional Price Parity Chart" align="center"/>
@@ -110,7 +110,6 @@ There were not a lot of major changes to be made as I was overall pretty happy w
 </script>
 
 <br>
-Data Source: https://data.world/makeovermonday/2021w17
 
 **A couple of things that I changed based on the feedback were:**
 * Improving overall clarity by adding a 'US Average' benchmark label at 100 Price Parity Index. This helped draw more attention to what the different states were being compared to.
@@ -118,4 +117,6 @@ Data Source: https://data.world/makeovermonday/2021w17
 * I made small changes to font size/color to highlight important things like axes and the title.
 * Also added a caption citing the original data sources.
 
+**Sources: **
+[Data World](https://data.world/makeovermonday/2021w17)
 
