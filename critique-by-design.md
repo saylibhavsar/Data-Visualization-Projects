@@ -23,28 +23,31 @@
 * **Engagement (5/10)** - The unusual format and bright colors attract initial attention. Viewers might find themselves intrigued by the circular design. But, once the user starts trying to interpret the chart, they could get frustrated by its lack of readability. This could lead to disengagement, especially if needed to make quick comparisons.
 <br>
 
-**2- How successful what this particular tool/scale at evaluating the data visualizations? How does this method compare to the Good Charts method? Is there anything missing?
-**
+**2- How successful what this particular tool/scale at evaluating the data visualizations? How does this method compare to the Good Charts method? Is there anything missing?**
+
 * Overall, the framework is pretty good at systematically evaluating the visualization's effectiveness by focusing on elements like perceptibility, usefulness, and aesthetics. The framework highlighted key issues like perceptibility and intuitiveness, which are crucial for data tools used by professionals. A measure that could be added is Accessibility (doesn’t address accessibility concerns, such as color blindness or if the chart is readable on various platforms).
 
 * Comparison: I think this method works pretty well because it allows me to isolate each metric and think very objectively. For instance, when I was looking at the 'Usefulness', I did not think about anything else. I believe the good charts metric does not do this. But on a positive note, the Good Charts metric is good at organically laying out and understanding what I like vs what I don't. It is also an easier framework to explain and understand.
 <br>
 
-**3- Intended Audience: **
+**3- Intended Audience:**
+
 Policymakers/Economists or Analysts might use this information to understand cost-of-living disparities and craft policies related to economic development, wage laws, and regional funding. They might need this data to assess economic trends and compare cost-of-living variations across the U.S.
 Businesses: Companies looking to expand or relocate might use this to understand the cost of doing business in different states.
 Consumers/Residents: Individuals considering relocation or job offers might use this information to gauge how far their income would stretch in different regions.
 <br>
 
-**4- Brief Recommendations: **
+**4- Brief Recommendations:**
+
 Switch to a Bar Chart or something with a baseline: A horizontal or vertical bar chart would allow for easier comparison of regional price parities by having states along a single axis. The states could be ordered by their index values to make trends clear.
 Color: Using a more limited, distinct palette (such as three colors: blue for below average, gray for average, red for above average) would make it clearer at a glance where states fall in relation to the national average.
 Grouping: States could be grouped into categories (e.g., 85-89.9, 90-94.9, etc.) and arranged accordingly, making it easier to focus on the relevant section of the chart. 
 <br>
 
-## Part 3 - Sketch out a Solution
+## Part 3 - Sketch Out a Solution
 
-<img src="Images/Initial_soln_price_parity.png" alt="Re-designed Regional Price Parity Chart" width="800" align="center"/>
+I went with my recommendations of switching to a bar (benchmark) chart and also grouped states into categories (allowing users to focus on the specific area of the graph). Here is my early draft in tableau:
+<img src="Images/Initial_soln_price_parity.png" alt="Re-designed Regional Price Parity Chart" align="center"/>
 > Source <a href="https://howmuch.net/articles/regional-price-parities-by-state">howmuch.net</a>
 
 
