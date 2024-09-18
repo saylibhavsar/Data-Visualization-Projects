@@ -33,9 +33,9 @@
 
 **3- Intended Audience:**
 
--Policymakers/Economists or Analysts might use this information to understand cost-of-living disparities and craft policies related to economic development, wage laws, and regional funding. They might need this data to assess economic trends and compare cost-of-living variations across the U.S.
--Businesses: Companies looking to expand or relocate might use this to understand the cost of doing business in different states.
--Consumers/Residents: Individuals considering relocation or job offers might use this information to gauge how far their income would stretch in different regions.
+* Policymakers/Economists or Analysts might use this information to understand cost-of-living disparities and craft policies related to economic development, wage laws, and regional funding. They might need this data to assess economic trends and compare cost-of-living variations across the U.S.
+* Businesses: Companies looking to expand or relocate might use this to understand the cost of doing business in different states.
+* Consumers/Residents: Individuals considering relocation or job offers might use this information to gauge how far their income would stretch in different regions.
 <br>
 
 **4- Insights Gained and Brief Recommendations:**
@@ -43,9 +43,9 @@
 From the critique, I gained insight into the importance of balancing aesthetics with functionality. While the radial layout initially captures attention, its difficulty in making direct comparisons between states affects perceptibility and intuitiveness. This highlights the need for a design that's visually engaging but also easy to interpret and compare at a glance, particularly when dealing with economic data like purchasing power.
 
 **Some ideas that came to my mind:**
--Switch to a Bar Chart or something with a baseline: A horizontal or vertical bar chart would allow for easier comparison of regional price parities by having states along a single axis. The states could be ordered by their index values to make trends clear.
--Color: Using a more limited, distinct palette (such as three colors: blue for below average, gray for average, red for above average) would make it clearer at a glance where states fall in relation to the national average.
--Grouping: States could be grouped into categories (e.g., 85-89.9, 90-94.9, etc.) and arranged accordingly, making it easier to focus on the relevant section of the chart. 
+* Switch to a Bar Chart or something with a baseline: A horizontal or vertical bar chart would allow for easier comparison of regional price parities by having states along a single axis. The states could be ordered by their index values to make trends clear.
+* Color: Using a more limited, distinct palette (such as three colors: blue for below average, gray for average, red for above average) would make it clearer at a glance where states fall in relation to the national average.
+* Grouping: States could be grouped into categories (e.g., 85-89.9, 90-94.9, etc.) and arranged accordingly, making it easier to focus on the relevant section of the chart. 
 <br>
 
 ## Part 3 - Sketch Out a Solution
@@ -117,6 +117,6 @@ There were not a lot of major changes to be made as I was overall pretty happy w
 * I made small changes to font size/color to highlight important things like axes and the title.
 * Also added a caption citing the original data sources.
 
-**Sources: **
+**Sources:**
 [Data World](https://data.world/makeovermonday/2021w17)
 
