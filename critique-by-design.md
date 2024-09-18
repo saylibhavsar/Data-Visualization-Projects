@@ -43,13 +43,13 @@
 From the critique, I gained insight into the importance of balancing aesthetics with functionality. While the radial layout initially captures attention, its difficulty in making direct comparisons between states affects perceptibility and intuitiveness. This highlights the need for a design that's visually engaging but also easy to interpret and compare at a glance, particularly when dealing with economic data like purchasing power.
 
 **Some ideas that came to my mind:**
-Switch to a Bar Chart or something with a baseline: A horizontal or vertical bar chart would allow for easier comparison of regional price parities by having states along a single axis. The states could be ordered by their index values to make trends clear.
-Color: Using a more limited, distinct palette (such as three colors: blue for below average, gray for average, red for above average) would make it clearer at a glance where states fall in relation to the national average.
-Grouping: States could be grouped into categories (e.g., 85-89.9, 90-94.9, etc.) and arranged accordingly, making it easier to focus on the relevant section of the chart. 
+-Switch to a Bar Chart or something with a baseline: A horizontal or vertical bar chart would allow for easier comparison of regional price parities by having states along a single axis. The states could be ordered by their index values to make trends clear.
+-Color: Using a more limited, distinct palette (such as three colors: blue for below average, gray for average, red for above average) would make it clearer at a glance where states fall in relation to the national average.
+-Grouping: States could be grouped into categories (e.g., 85-89.9, 90-94.9, etc.) and arranged accordingly, making it easier to focus on the relevant section of the chart. 
 <br>
 
 ## Part 3 - Sketch Out a Solution
-
+<br>
 I went with my recommendations of switching to a bar (benchmark) chart and also grouped states into categories (allowing users to focus on the specific area of the graph). Here is my early draft in tableau:
 <br>
 <img src="Images/Initial_soln_price_parity.png" alt="Re-designed Regional Price Parity Chart" align="center"/>
@@ -69,26 +69,30 @@ I have interviewed 3 people to capture specific feedback from all participants a
 
 
 **1. student, mid 20's**
-   * The first thing the participant said was how the color scheme stood out and demonstrated the contrasts in values, particularly the blue-red gradient. The headline "Which Regions Are More or Less Expensive Than Average?" proved to be beneficial in helping them comprehend the concept of "Price Parity" and the chart. They found the chart to be clear and well-structured, with the vertical range labels—such as "below 85"—being particularly helpful. Nevertheless, they recommended combining all the states into a single display to eliminate the need to scroll horizontally. It was also suggested that a solid black line be added at the 100-point threshold to make it obvious whether states are above or below the national average. They thought the graphic was clear overall, but these adjustments would improve it even further.
+The first thing the participant said was how the color scheme stood out and demonstrated the contrasts in values, particularly the blue-red gradient. The headline "Which Regions Are More or Less Expensive Than Average?" proved to be beneficial in helping them comprehend the concept of "Price Parity" and the chart. They found the chart to be clear and well-structured, with the vertical range labels—such as "below 85"—being particularly helpful. Nevertheless, they recommended combining all the states into a single display to eliminate the need to scroll horizontally. It was also suggested that a solid black line be added at the 100-point threshold to make it obvious whether states are above or below the national average. They thought the graphic was clear overall, but these adjustments would improve it even further.
+
 **2. student, mid 20's**
-   * The participant said that rather than depicting pricing disparities between states, the red-blue color scheme made them think of political parties (Democrats and Republicans). Considering that green is frequently associated with money, they recommended using green-red/orange instead. They said it was simple to grasp and that they liked how the data was arranged. The heading, "Which State is More Expensive/Cheaper," clarified what price parity entailed and was useful. Although they said it needs to be more evident or properly labeled, they also approved of the US average benchmark, which is set at 100.
-**5. student, mid 20's**
-   * The participant agreed with the previous person's comment about changing the color scheme to something like green-red/orange. They did question the relevance of the grouping and why exactly was it necessary, though. Overall, they liked the chart and thought it looked visually appealing. Aside from the color change, they wouldn’t alter anything else. They also mentioned that the approach that I had used to re-design the original chart was the best one and thought benchmarking at 100 was a great idea.
+The participant said that rather than depicting pricing disparities between states, the red-blue color scheme made them think of political parties (Democrats and Republicans). Considering that green is frequently associated with money, they recommended using green-red/orange instead. They said it was simple to grasp and that they liked how the data was arranged. The heading, "Which State is More Expensive/Cheaper," clarified what price parity entailed and was useful. Although they said it needs to be more evident or properly labeled, they also approved of the US average benchmark, which is set at 100.
+
+**3. student, mid 20's**
+The participant agreed with the previous person's comment about changing the color scheme to something like green-red/orange. They did question the relevance of the grouping and why exactly was it necessary, though. Overall, they liked the chart and thought it looked visually appealing. Aside from the color change, they wouldn’t alter anything else. They also mentioned that the approach that I had used to re-design the original chart was the best one and thought benchmarking at 100 was a great idea.
 
 **Key Takeaways**
 * Similarities
-- Color Scheme: Most agreed the red-blue colors reminded them of politics. They suggested green-red/orange since green is linked to finance/money.
-- Clarity: Everyone found the chart clear and in general liked the grouping, though one person questioned its need. Here, I felt that the grouping along with the color gradient adds to the clarity of the chart and it is easy to see which state falls in which category.
-- Benchmarking: All liked the 100-point US average but thought it should be more noticeable.
-- Understandability: Everyone seemed to understand the concept behind the graph pretty easily.
+  - Color Scheme: Most agreed the red-blue colors reminded them of politics. They suggested green-red/orange since green is linked to finance/money.
+  - Clarity: Everyone found the chart clear and in general liked the grouping, though one person questioned its need. Here, I felt that the grouping along with the color gradient adds to the clarity of the chart and it is easy to see which state falls in which category.
+  - Benchmarking: All liked the 100-point US average but thought it should be more noticeable.
+  - Understandability: Everyone seemed to understand the concept behind the graph pretty easily.
 <br>
+
 * Differences:
-- Grouping: Only one person found it helpful, while another questioned why it was included.
-- Scrolling: Only one participant mentioned the need to fit all states in one view to avoid scrolling. However, the other 2 participants did not think that this was an issue.
+  - Grouping: Only one person found it helpful, while another questioned why it was included.
+  - Scrolling: Only one participant mentioned the need to fit all states in one view to avoid scrolling. However, the other 2 participants did not think that this was an issue.
 <br>
+
 * What I Learned/Incorporating Changes:
-- Color matters: Green-red/orange would better suit the topic of pricing.
-- Make the US Average 100-Benchmark clearer: Adding a solid black line at 100 and labeling it would help.
+  - Color matters: Green-red/orange would better suit the topic of pricing.
+  - Make the US Average 100-Benchmark clearer: Adding a solid black line at 100 and labeling it would help.
 
 ## Part 5 - Build the Final Solution
 
@@ -106,7 +110,7 @@ There were not a lot of major changes to be made as I was overall pretty happy w
 </script>
 
 <br>
-Data Source: [https://data.world/makeovermonday/2021w17](Data Source: https://data.world/makeovermonday/2021w17)
+Data Source: https://data.world/makeovermonday/2021w17
 
 **A couple of things that I changed based on the feedback were:**
 * Improving overall clarity by adding a 'US Average' benchmark label at 100 Price Parity Index. This helped draw more attention to what the different states were being compared to.
