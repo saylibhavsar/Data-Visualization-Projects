@@ -9,6 +9,7 @@
 
 * This graph shows the purchasing power of each state in the US to compare how expensive (and cheaper) everyday goods and services are within each state.
 * It uses a benchmark of 100 (US Difference From The Average)
+* I selected this particular visualization because the interesting radial design drew my attention immediately. I found the concept of price parity comparison interesting as well and could think of a few ways to make it better.
 
 ## Part 2 - Critique using Stephen Few's Data Visualization Effectiveness Profile
 
@@ -32,13 +33,16 @@
 
 **3- Intended Audience:**
 
-Policymakers/Economists or Analysts might use this information to understand cost-of-living disparities and craft policies related to economic development, wage laws, and regional funding. They might need this data to assess economic trends and compare cost-of-living variations across the U.S.
-Businesses: Companies looking to expand or relocate might use this to understand the cost of doing business in different states.
-Consumers/Residents: Individuals considering relocation or job offers might use this information to gauge how far their income would stretch in different regions.
+-Policymakers/Economists or Analysts might use this information to understand cost-of-living disparities and craft policies related to economic development, wage laws, and regional funding. They might need this data to assess economic trends and compare cost-of-living variations across the U.S.
+-Businesses: Companies looking to expand or relocate might use this to understand the cost of doing business in different states.
+-Consumers/Residents: Individuals considering relocation or job offers might use this information to gauge how far their income would stretch in different regions.
 <br>
 
-**4- Brief Recommendations:**
+**4- Insights Gained and Brief Recommendations:**
 
+From the critique, I gained insight into the importance of balancing aesthetics with functionality. While the radial layout initially captures attention, its difficulty in making direct comparisons between states affects perceptibility and intuitiveness. This highlights the need for a design that's visually engaging but also easy to interpret and compare at a glance, particularly when dealing with economic data like purchasing power.
+
+**Some ideas that came to my mind:**
 Switch to a Bar Chart or something with a baseline: A horizontal or vertical bar chart would allow for easier comparison of regional price parities by having states along a single axis. The states could be ordered by their index values to make trends clear.
 Color: Using a more limited, distinct palette (such as three colors: blue for below average, gray for average, red for above average) would make it clearer at a glance where states fall in relation to the national average.
 Grouping: States could be grouped into categories (e.g., 85-89.9, 90-94.9, etc.) and arranged accordingly, making it easier to focus on the relevant section of the chart. 
@@ -55,7 +59,7 @@ I went with my recommendations of switching to a bar (benchmark) chart and also 
 
 I have interviewed 3 people to capture specific feedback from all participants about my initial draft in Tableau.
 
-Here are my seed questions:
+**Here are my seed questions:**
 * Can you walk me through how you interpret this visualization?
 * What’s the first thing that stands out to you when you look at this chart?
 * Do you understand what the term 'Price Parity' means based on this chart?
@@ -64,11 +68,11 @@ Here are my seed questions:
 * Is there anything you would change or improve in the chart's design or layout?
 
 
-1. student, mid 20's
+**1. student, mid 20's**
    * The first thing the participant said was how the color scheme stood out and demonstrated the contrasts in values, particularly the blue-red gradient. The headline "Which Regions Are More or Less Expensive Than Average?" proved to be beneficial in helping them comprehend the concept of "Price Parity" and the chart. They found the chart to be clear and well-structured, with the vertical range labels—such as "below 85"—being particularly helpful. Nevertheless, they recommended combining all the states into a single display to eliminate the need to scroll horizontally. It was also suggested that a solid black line be added at the 100-point threshold to make it obvious whether states are above or below the national average. They thought the graphic was clear overall, but these adjustments would improve it even further.
-2. student, mid 20's
+**2. student, mid 20's**
    * The participant said that rather than depicting pricing disparities between states, the red-blue color scheme made them think of political parties (Democrats and Republicans). Considering that green is frequently associated with money, they recommended using green-red/orange instead. They said it was simple to grasp and that they liked how the data was arranged. The heading, "Which State is More Expensive/Cheaper," clarified what price parity entailed and was useful. Although they said it needs to be more evident or properly labeled, they also approved of the US average benchmark, which is set at 100.
-5. student, mid 20's
+**5. student, mid 20's**
    * The participant agreed with the previous person's comment about changing the color scheme to something like green-red/orange. They did question the relevance of the grouping and why exactly was it necessary, though. Overall, they liked the chart and thought it looked visually appealing. Aside from the color change, they wouldn’t alter anything else. They also mentioned that the approach that I had used to re-design the original chart was the best one and thought benchmarking at 100 was a great idea.
 
 **Key Takeaways**
@@ -76,6 +80,7 @@ Here are my seed questions:
 - Color Scheme: Most agreed the red-blue colors reminded them of politics. They suggested green-red/orange since green is linked to finance/money.
 - Clarity: Everyone found the chart clear and in general liked the grouping, though one person questioned its need. Here, I felt that the grouping along with the color gradient adds to the clarity of the chart and it is easy to see which state falls in which category.
 - Benchmarking: All liked the 100-point US average but thought it should be more noticeable.
+- Understandability: Everyone seemed to understand the concept behind the graph pretty easily.
 <br>
 * Differences:
 - Grouping: Only one person found it helpful, while another questioned why it was included.
@@ -87,6 +92,26 @@ Here are my seed questions:
 
 ## Part 5 - Build the Final Solution
 
+There were not a lot of major changes to be made as I was overall pretty happy with the graph. After incorporating the major feedback from the interviews, I made the final graph in Tableau:
+<br>
+<div class='tableauPlaceholder' id='viz1726629271667' style='position: relative'><noscript><a href='#'><img alt='Price Parity by State (2019): Which Regions Are More or Less Expensive Than Average?gh ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Price_Parity_State&#47;Price_Parity&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Price_Parity_State&#47;Price_Parity' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Price_Parity_State&#47;Price_Parity&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1726629271667');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<br>
+Data Source: [https://data.world/makeovermonday/2021w17](Data Source: https://data.world/makeovermonday/2021w17)
+
+**A couple of things that I changed based on the feedback were:**
+* Improving overall clarity by adding a 'US Average' benchmark label at 100 Price Parity Index. This helped draw more attention to what the different states were being compared to.
+* I also changed up the color scheme so that it did not resemble politics but rather focused on the color green which generally is used for finance/money.
+* I made small changes to font size/color to highlight important things like axes and the title.
+* Also added a caption citing the original data sources.
 
 
