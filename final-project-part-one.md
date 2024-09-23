@@ -12,11 +12,11 @@ As a manager or employee, I'd like to understand how remote and hybrid work aff
 
 ## Project Structure 🛠️
 
-* Setup:
+* **Setup:**
 Remote work initially boosted productivity and employee satisfaction by offering flexibility and eliminating/reducing commute time.
-* Conflict:
+* **Conflict:**
 As remote work continued, challenges like burnout, reduced collaboration, and blurred work-life boundaries caused productivity to decline.
-* Resolution:
+* **Resolution:**
 Adopting hybrid work models, enhancing communication tools, and providing mental health support can sustain productivity in the long term.
 
 
@@ -25,10 +25,12 @@ Adopting hybrid work models, enhancing communication tools, and providing mental
 **Setup**
 * Early stages of remote work: positive outcomes, including improved work-life balance and increased productivity.
 * The shift seemed to benefit both employers and employees.
+  
 **Conflict**
 * Challenges like burnout, isolation, and lack of collaboration surfaced.
 * Productivity began to decline
 * Employees experienced mental health issues due to lack of  boundaries between personal and professional life.
+
 **Resolution**
 * Solutions for enhancing productivity can include:
     * Switching to a hybrid work environment
@@ -39,22 +41,21 @@ Adopting hybrid work models, enhancing communication tools, and providing mental
 
 ## Story Arc 🖋️
 
-<img src="Images/story_arc.jpg" alt="Story Arc"/>
+<img src="Images/story_arc.jpg" alt="Story Arc" width = "700"/>
 
-￼
 ## Initial Sketches ✎ᝰ
 
 ### **Setup**
 
-1. Initial increase in productivity at the beginning of covid (June 2020)
+1.Initial increase in productivity at the beginning of covid (June 2020)
 
-At the beginning of Covid, when people had just started working from home, we saw an initial surge in productivity as reported by employees. Here is an example from the US (2020):
+At the beginning of COVID-19, when people had just started working from home, we saw an initial surge in productivity as reported by employees. Here is an example from the US (2020):
 
 <img src="Images/Setup1.png" alt="US Employee Survey on Productivity"/>
 > Source <a href="https://www-statista-com.cmu.idm.oclc.org/statistics/1140732/work-from-home-productivity-employees-us/">Statista: US Employee Survey on Productivity</a>
 
-
-2. A higher percentage of people reported higher productivity when working remotely, while only 14% proved less productive.
+<br>
+2.A higher percentage of people reported higher productivity when working remotely, while only 14% proved less productive.
 
 <img src="Images/Setup1.png" alt="US Employee Survey on Productivity"/>
 > Source <a href="https://www.forbes.com/sites/glebtsipursky/2022/11/03/workers-are-less-productive-working-remotely-at-least-thats-what-their-bosses-think/">Forbes</a>
@@ -62,7 +63,7 @@ At the beginning of Covid, when people had just started working from home, we sa
 
 ### **Conflict**
 
-1. Within a few months, we noticed a drop in productivity levels (output per hour worked). 
+1.Within a few months, we noticed a drop in productivity levels (output per hour worked). 
 
 <img src="Images/Conflict1.png" alt="Drop in Productivity"/>
 > Source <a href="https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view">Stanford: Evolution of Working From Home</a>
@@ -70,23 +71,23 @@ At the beginning of Covid, when people had just started working from home, we sa
 
 The 8% to 19% drop in productivity is lower than usual productivity levels. This means that labor productivity (output per hour worked) has decreased by that percentage in remote work environments compared to traditional, in-office work settings.
 
-
-2. Change in priorities for employees
+<br>
+2.Change in priorities for employees
 
 
 People gradually started prioritizing their health and well-being over work than before the pandemic. Surprisingly enough, promotions or compensation was not among the top 5 reasons but rather 7th for employees to quit their jobs in 2021.
 
-<img src="Images/Conflict4.png" alt="hybrid Work"/>
+<img src="Images/Conflict4.png" alt="hybrid Work" width="700"/>
 > Source <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/great-expectations-making-hybrid-work-work">Microsoft Work Trend Index</a>
 
 
 3. People started having major issues with remote work (2022)
 
 
-<img src="Images/Conflict2.png" alt="hybrid Work"/>
+<img src="Images/Conflict2.jpg" alt="hybrid Work"/>
 > Source <a href="https://buffer.com/state-of-remote-work/2022">Buffer: State of Remote Work (2022)</a>
 
-4. Google Trends for search terms like “hybrid work” and “mental heath remote work” started surging and spiked during different phases on the pandemic.
+4. Google Trends for search terms like “hybrid work” and “mental health remote work” started surging and spiked during different phases on the pandemic.
 
 Tableau 1
 Tableau 2
@@ -97,7 +98,7 @@ This shows how concerns about productivity and work-life balance rose over time.
 
 ### **Resolution**
 
-1. Hybrid work started increasing significantly at the end of covid
+1. Hybrid work started increasing significantly at the end of COVID-19.
 ￼
 <img src="Images/Resolution3.png" alt="hybrid work increase"/>
 > Source <a href="https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx">Gallup Employee Wellbeing Report</a>
@@ -116,20 +117,22 @@ Data Sources: I plan to use public datasets from Statista and surveys/statistics
 Plan for Using Data: I will use this data to analyze productivity trends during the transition to remote and hybrid work, focusing on employee productivity, engagement, and mental health. I will analyze factors such as hours worked, output, and collaboration, using sources like the Gallup Wellbeing Report and Microsoft’s Work Trend Index. Google Trends will highlight public interest in remote work challenges and solutions over time. This data will inform recommendations for adopting hybrid work models, improving communication tools, and offering mental health support to optimize post-pandemic productivity.
 
 | Name   |      Description     | 
-|----------|:-------------:|
-| Microsoft Work Trend Index |  Provides global insights into how remote work impacts productivity and employee engagement. |
-| Gallup Employee Wellbeing Report |    Offers data on employee wellness and mental health, focusing on how burnout affects productivity in remote work. |
-| Buffer State of Remote Work Report | How remote workers from around the world feel about remote work, the pros/cons (2020-2023) |
-| Google Trends | How public interest and concerns around productivity, mental health, and hybrid work have evolved over time - dataset for relevant search terms
-| Statista | Work from home charts/statistics                       - Dataset for struggles of working remotely  |
-
+|:----------|:-------------|
+| [Microsoft Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work-is-just-work) | Provides global insights into how remote work impacts productivity and employee engagement. |
+| [Gallup Employee Wellbeing Report](https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx) | Offers data on employee wellness and mental health, focusing on how burnout affects productivity in remote work. |
+| [Buffer State of Remote Work Report](https://buffer.com/state-of-remote-work/2022) | How remote workers from around the world feel about remote work, the pros/cons (2020-2023) |
+| [Google Trends](https://trends.google.com/trends/) | *How public interest and concerns around productivity, mental health, and hybrid work have evolved over time *dataset for relevant search terms |
+| [Statista](https://www-statista-com.cmu.idm.oclc.org/statistics/1140732/work-from-home-productivity-employees-us/
+) | *Work from home charts/statistics * Dataset for struggles of working remotely |
+| [Forbes article](https://www.forbes.com/sites/richardosibanjo/2022/06/30/the-post-pandemic-office-how-to-win-employees-back/) | Remote Work Productivity vs in-office |
+| [Stanford article](https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view) | Measuring drop in productivity during and post covid |
 
 ## Method and Medium ⚙️
 
 I will be using the following tools for my project:
-* Tableau: for creating interactive data visualizations
-* Shorthand: for developing my story narrative and website
-* Visme: for creating custom visuals that support my story arc
+* **Tableau:** for creating interactive data visualizations
+* **Shorthand:** for developing my story narrative and website
+* **Visme:** for creating custom visuals that support my story arc
 
 My aim is to include graphics, such as productivity trends, employee engagement, and mental health metrics, to help the audience quickly understand the key takeaways. These visuals will illustrate the impact of remote and hybrid work on productivity and highlight areas where improvements can be made.
 
