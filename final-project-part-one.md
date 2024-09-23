@@ -52,13 +52,13 @@ Adopting hybrid work models, enhancing communication tools, and providing mental
 At the beginning of COVID-19, when people had just started working from home, we saw an initial surge in productivity as reported by employees. Here is an example from the US (2020):
 
 <img src="Images/Setup1.png" alt="US Employee Survey on Productivity"/>
-> Source <a href="https://www-statista-com.cmu.idm.oclc.org/statistics/1140732/work-from-home-productivity-employees-us/">Statista: US Employee Survey on Productivity</a>
+> Source: <a href="https://www-statista-com.cmu.idm.oclc.org/statistics/1140732/work-from-home-productivity-employees-us/">Statista: US Employee Survey on Productivity</a>
 
 <br>
 2.A higher percentage of people reported higher productivity when working remotely, while only 14% proved less productive.
 
-<img src="Images/Setup1.png" alt="US Employee Survey on Productivity"/>
-> Source <a href="https://www.forbes.com/sites/glebtsipursky/2022/11/03/workers-are-less-productive-working-remotely-at-least-thats-what-their-bosses-think/">Forbes</a>
+<img src="Images/Setup2.png" alt="US Employee Survey on Productivity"/>
+> Source: <a href="https://www.forbes.com/sites/glebtsipursky/2022/11/03/workers-are-less-productive-working-remotely-at-least-thats-what-their-bosses-think/">Forbes</a>
 
 
 ### **Conflict**
@@ -66,7 +66,7 @@ At the beginning of COVID-19, when people had just started working from home, we
 1.Within a few months, we noticed a drop in productivity levels (output per hour worked). 
 
 <img src="Images/Conflict1.png" alt="Drop in Productivity"/>
-> Source <a href="https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view">Stanford: Evolution of Working From Home</a>
+> Source: <a href="https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view">Stanford: Evolution of Working From Home</a>
 
 
 The 8% to 19% drop in productivity is lower than usual productivity levels. This means that labor productivity (output per hour worked) has decreased by that percentage in remote work environments compared to traditional, in-office work settings.
@@ -77,15 +77,15 @@ The 8% to 19% drop in productivity is lower than usual productivity levels. This
 
 People gradually started prioritizing their health and well-being over work than before the pandemic. Surprisingly enough, promotions or compensation was not among the top 5 reasons but rather 7th for employees to quit their jobs in 2021.
 
-<img src="Images/Conflict4.png" alt="hybrid Work" width="700"/>
-> Source <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/great-expectations-making-hybrid-work-work">Microsoft Work Trend Index</a>
+<img src="Images/Conflict4.png" alt="hybrid Work" width="800"/>
+> Source: <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/great-expectations-making-hybrid-work-work">Microsoft Work Trend Index</a>
 
 
 3. People started having major issues with remote work (2022)
 
 
-<img src="Images/Conflict2.jpg" alt="hybrid Work"/>
-> Source <a href="https://buffer.com/state-of-remote-work/2022">Buffer: State of Remote Work (2022)</a>
+<img src="Images/Conflict2.jpg" alt="hybrid Work" width="700"/>
+> Source: <a href="https://buffer.com/state-of-remote-work/2022">Buffer: State of Remote Work (2022)</a>
 
 4. Google Trends for search terms like “hybrid work” and “mental health remote work” started surging and spiked during different phases on the pandemic.
 
@@ -101,7 +101,7 @@ This shows how concerns about productivity and work-life balance rose over time.
 1. Hybrid work started increasing significantly at the end of COVID-19.
 ￼
 <img src="Images/Resolution3.png" alt="hybrid work increase"/>
-> Source <a href="https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx">Gallup Employee Wellbeing Report</a>
+> Source: <a href="https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx">Gallup Employee Wellbeing Report</a>
 
 2. Adoption of hybrid work models helped reduce the biggest struggles (e.g., showing a decline in burnout or inability to unplug). 
 
@@ -121,9 +121,8 @@ Plan for Using Data: I will use this data to analyze productivity trends during 
 | [Microsoft Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work-is-just-work) | Provides global insights into how remote work impacts productivity and employee engagement. |
 | [Gallup Employee Wellbeing Report](https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx) | Offers data on employee wellness and mental health, focusing on how burnout affects productivity in remote work. |
 | [Buffer State of Remote Work Report](https://buffer.com/state-of-remote-work/2022) | How remote workers from around the world feel about remote work, the pros/cons (2020-2023) |
-| [Google Trends](https://trends.google.com/trends/) | *How public interest and concerns around productivity, mental health, and hybrid work have evolved over time *dataset for relevant search terms |
-| [Statista](https://www-statista-com.cmu.idm.oclc.org/statistics/1140732/work-from-home-productivity-employees-us/
-) | *Work from home charts/statistics * Dataset for struggles of working remotely |
+| [Google Trends](https://trends.google.com/trends/) | * How public interest and concerns around productivity, mental health, and hybrid work have evolved over time * Dataset for relevant search terms |
+| [Statista](https://www.statista.com/statistics/1140732/work-from-home-productivity-employees-us/) | * Work from home charts/statistics * Dataset for struggles of working remotely |
 | [Forbes article](https://www.forbes.com/sites/richardosibanjo/2022/06/30/the-post-pandemic-office-how-to-win-employees-back/) | Remote Work Productivity vs in-office |
 | [Stanford article](https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view) | Measuring drop in productivity during and post covid |
 
