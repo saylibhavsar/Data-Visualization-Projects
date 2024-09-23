@@ -147,11 +147,11 @@ Plan for Using Data: I will use this data to analyze productivity trends during 
 |:----------|:-------------|
 | [Microsoft Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work-is-just-work) | Provides global insights into how remote work impacts productivity and employee engagement. |
 | [Gallup Employee Wellbeing Report](https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx) | Offers data on employee wellness and mental health, focusing on how burnout affects productivity in remote work. |
-| [Buffer State of Remote Work Report](https://buffer.com/state-of-remote-work/2022) | How remote workers from around the world feel about remote work, the pros/cons (2020-2023) |
-| [Google Trends](https://trends.google.com/trends/) | <li> How public interest and concerns around productivity, mental health, and hybrid work have evolved over time <li> Dataset for relevant search terms |
-| [Statista](https://www.statista.com/statistics/1140732/work-from-home-productivity-employees-us/) | <li> Work from home charts/statistics <li> Dataset for struggles of working remotely |
-| [Forbes article](https://www.forbes.com/sites/richardosibanjo/2022/06/30/the-post-pandemic-office-how-to-win-employees-back/) | Remote Work Productivity vs in-office |
-| [Stanford article](https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view) | Measuring drop in productivity during and post covid |
+| [Buffer State of Remote Work Report](https://buffer.com/state-of-remote-work/2022) | How remote workers from around the world feel about remote work, the pros/cons (2020-2023). |
+| [Google Trends](https://trends.google.com/trends/) | - How public interest and concerns around productivity, mental health, and hybrid work have evolved over time.  <br> - Dataset for relevant search terms. |
+| [Statista](https://www.statista.com/statistics/1140732/work-from-home-productivity-employees-us/) | - Work from home charts/statistics.  <br> - Dataset for struggles of working remotely. |
+| [Forbes article](https://www.forbes.com/sites/richardosibanjo/2022/06/30/the-post-pandemic-office-how-to-win-employees-back/) | Remote Work Productivity vs in-office. |
+| [Stanford article](https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view) | Measuring drop in productivity during and post covid. |
 
 ## Method and Medium ⚙️
 
