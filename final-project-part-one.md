@@ -81,15 +81,15 @@ People gradually started prioritizing their health and well-being over work than
 > Source: <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/great-expectations-making-hybrid-work-work">Microsoft Work Trend Index</a>
 
 
-3. People started having major issues with remote work (2022)
+3.People started having major issues with remote work (2022)
 
 
 <img src="Images/Conflict2.jpg" alt="hybrid Work" width="700"/>
 > Source: <a href="https://buffer.com/state-of-remote-work/2022">Buffer: State of Remote Work (2022)</a>
 
-4. Google Trends for search terms like “hybrid work” and “mental health remote work” started surging and spiked during different phases of the pandemic.
+4.Google Trends for search terms like “hybrid work” and “mental health remote work” started surging and spiked during different phases of the pandemic.
 
-<div class='tableauPlaceholder' id='viz1727117128477' style='position: relative'><noscript><a href='#'><img alt='Google Search Queries for &#39;Hybrid Work&#39;  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hy&#47;HybridWorkTrends&#47;HybridWorkTrends&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HybridWorkTrends&#47;HybridWorkTrends' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hy&#47;HybridWorkTrends&#47;HybridWorkTrends&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1727117128477' style='position: relative'><noscript><a href='#'><img width="700" alt='Google Search Queries for &#39;Hybrid Work&#39;  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hy&#47;HybridWorkTrends&#47;HybridWorkTrends&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HybridWorkTrends&#47;HybridWorkTrends' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hy&#47;HybridWorkTrends&#47;HybridWorkTrends&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1727117128477');
@@ -100,7 +100,7 @@ People gradually started prioritizing their health and well-being over work than
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-<div class='tableauPlaceholder' id='viz1727117207551' style='position: relative'><noscript><a href='#'><img alt='Google Search Queries for &#39;Remote work mental health&#39; over time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RemoteWorkMentalHeathTrends&#47;MentalHeathTrends&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RemoteWorkMentalHeathTrends&#47;MentalHeathTrends' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RemoteWorkMentalHeathTrends&#47;MentalHeathTrends&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1727117207551' style='position: relative'><noscript><a href='#'><img width="700" alt='Google Search Queries for &#39;Remote work mental health&#39; over time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RemoteWorkMentalHeathTrends&#47;MentalHeathTrends&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RemoteWorkMentalHeathTrends&#47;MentalHeathTrends' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RemoteWorkMentalHeathTrends&#47;MentalHeathTrends&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1727117207551');
@@ -135,6 +135,7 @@ This shows how concerns about productivity and work-life balance rose over time.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+Here, we can see that people struggled a lot in 2021 and 2022, but by 2023, as hybrid work began to take up, these largest issues appeared to have reduced.
 
 ## The Data 📊
 
@@ -147,8 +148,8 @@ Plan for Using Data: I will use this data to analyze productivity trends during 
 | [Microsoft Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work-is-just-work) | Provides global insights into how remote work impacts productivity and employee engagement. |
 | [Gallup Employee Wellbeing Report](https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx) | Offers data on employee wellness and mental health, focusing on how burnout affects productivity in remote work. |
 | [Buffer State of Remote Work Report](https://buffer.com/state-of-remote-work/2022) | How remote workers from around the world feel about remote work, the pros/cons (2020-2023) |
-| [Google Trends](https://trends.google.com/trends/) | * How public interest and concerns around productivity, mental health, and hybrid work have evolved over time * Dataset for relevant search terms |
-| [Statista](https://www.statista.com/statistics/1140732/work-from-home-productivity-employees-us/) | * Work from home charts/statistics * Dataset for struggles of working remotely |
+| [Google Trends](https://trends.google.com/trends/) | <li> How public interest and concerns around productivity, mental health, and hybrid work have evolved over time <li> Dataset for relevant search terms |
+| [Statista](https://www.statista.com/statistics/1140732/work-from-home-productivity-employees-us/) | <li> Work from home charts/statistics <li> Dataset for struggles of working remotely |
 | [Forbes article](https://www.forbes.com/sites/richardosibanjo/2022/06/30/the-post-pandemic-office-how-to-win-employees-back/) | Remote Work Productivity vs in-office |
 | [Stanford article](https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view) | Measuring drop in productivity during and post covid |
 
