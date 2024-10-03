@@ -21,7 +21,7 @@ Over time, remote work reduced productivity and made it more difficult for profe
 * **Resolution:**
 Hybrid work emerged as a solution, combining remote flexibility with in-person collaboration, improving team relationships, and decreasing struggles like burnout and lack of mentorship.
 
-## Wireframes and Storyboards
+## High-Fidelity Wireframes
 
 ### **Setup**
 
@@ -35,14 +35,14 @@ At the beginning of COVID-19, when people had just started working from home, we
 <br>
 2. Mentorship Importance for Gen Z: As Gen Z entered the workforce, 76% emphasized that continuous learning is critical to their career advancement, highlighting the need for mentorship, which became more difficult to access remotely.
 
-<img src="Images/Part2_Setup2.png" alt="Mentorship Gen Z"/>
+<img src="Images/Part2_Setup2.png" alt="Mentorship Gen Z" />
 > Source: <a href="https://www.mentorcliq.com/blog/mentoring-stats/">MentorCliq: 40+ Definitive Mentorship Statistics and Research for 2024</a>
 
 ### **Conflict**
 
 1.Within a few months, we noticed a drop in productivity levels (output per hour worked). 
 
-<img src="Images/Conflict1.png" alt="Drop in Productivity"/>
+<img src="Images/Part2_Conflict1.png" alt="Drop in Productivity" width="800"/>
 > Source: <a href="https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view">Stanford: Evolution of Working From Home</a>
 
 
@@ -51,16 +51,14 @@ The 8% to 19% drop in productivity is lower than usual productivity levels. This
 <br>
 2. Career Progression Difficulties: 45% of early-career professionals felt that remote work made career progression more difficult, as they lacked in-person mentorship and networking opportunities.
 
-<img src="Images/Part2_Conflict2.png" alt="Remote Work makes career progression difficult"/>
+<img src="Images/Part2_Conflict2.png" alt="Remote Work makes career progression difficult" width="600"/>
 > Source: <a href="https://buffer.com/state-of-remote-work/2022">Buffer: State of Remote Work (2022)</a>
 
 <br>
-3.Support for New Employees: Employees hired during COVID-19 (After March 2020) struggled more than their in-office counterparts, feeling less connected to their teams and at greater risk of leaving their jobs.
+3.Support for New Employees: Employees hired during COVID-19 (After March 2020) struggled more than their in-office counterparts, feeling less connected to their teams and at greater risk of leaving their jobs. Managers are also concerned about the support that new employees are gettings after moving to remote work.
 
-<img src="Images/Part2_Conflict3.1.png" alt="Support for New Employees"/>
+<img src="Images/Part2_Conflict3.1.png" alt="Support for New Employees" width="300" align="center"/>
 > Source: <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/great-expectations-making-hybrid-work-work#:~:text=%E2%80%9CWhen%20people%20trust%20one%20another,and%20creativity%20and%20less%20groupthink.%E2%80%9D&text=Our%20research%20shows%20many%20hybrid,employer%20in%20the%20year%20ahead)">Microsoft Work Trend Index</a>
-
-Managers are also concerned about the support that new employees are gettings after moving to remote work.
 
 <div class='tableauPlaceholder' id='viz1727988170389' style='position: relative'><noscript><a href='#'><img alt='Employees hired during remote setups (Covid) are more likely to feel excluded, leave their jobs and have less strong team relationships. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewEmployeeCovid&#47;NewEmployees&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NewEmployeeCovid&#47;NewEmployees' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewEmployeeCovid&#47;NewEmployees&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
