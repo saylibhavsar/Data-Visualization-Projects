@@ -4,7 +4,7 @@
 <br>
 ## Outline
 
-This project looks at the trade-offs of remote and hybrid work arrangements, with recommendations for early-career professionals. It focuses on how diverse work paradigms affect productivity and career success. The study presents hybrid work as a well-balanced option that meets the demands of both flexibility and professional progress by illuminating how managers and employees balance the advantages and disadvantages of each work environment.
+This project looks at the trade-offs of remote and hybrid work arrangements, with recommendations for early-career professionals. It focuses on how diverse work paradigms affect productivity and career success. It presents hybrid work as a well-balanced option that meets the demands of both flexibility and professional progress by highlighting how managers and employees balance the advantages and disadvantages of each work environment.
 
 * Overview of the shift to remote work during the pandemic and its initial positive effects on productivity and employee satisfaction.
 * Highlight the emerging issues with sustaining remote work, especially for early-career professionals who require mentorship and growth opportunities.
@@ -56,7 +56,7 @@ At the beginning of COVID-19, when people had just started working from home, we
 The 8% to 19% drop in productivity is lower than usual productivity levels. This means that labor productivity (output per hour worked) has decreased by that percentage in remote work environments compared to traditional, in-office work settings.
 
 <br>
-2. Career Progression Difficulties: 45% of early-career professionals felt that remote work made career progression more difficult, as they lacked in-person mentorship and networking opportunities.
+2.Career Progression Difficulties: 45% of early-career professionals felt that remote work made career progression more difficult, as they lacked in-person mentorship and networking opportunities.
 
 <img src="Images/Part2_Conflict2.png" alt="Remote Work makes career progression difficult" width="600"/>
 > Source: <a href="https://buffer.com/state-of-remote-work/2022">Buffer: State of Remote Work (2022)</a>
