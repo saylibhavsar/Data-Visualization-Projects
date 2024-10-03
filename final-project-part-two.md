@@ -42,7 +42,7 @@ At the beginning of COVID-19, when people had just started working from home, we
 <br>
 2. Mentorship Importance for Gen Z: As Gen Z entered the workforce, 76% emphasized that continuous learning is critical to their career advancement, highlighting the need for mentorship, which became more difficult to access remotely.
 
-<img src="Images/Part2_Setup2.png" alt="Mentorship Gen Z" />
+<img src="Images/Part2_Setup2.png" alt="Mentorship Gen Z" width="700"/>
 > Source: <a href="https://www.mentorcliq.com/blog/mentoring-stats/">MentorCliq: 40+ Definitive Mentorship Statistics and Research for 2024</a>
 
 ### **Conflict**
