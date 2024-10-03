@@ -12,6 +12,13 @@ This project looks at the trade-offs of remote and hybrid work arrangements, w
 ## Reader's Objective 📖
 As a manager or early-career employee, I want to understand how different work models, affect career development and productivity. I seek practical insights on how to stay productive, engaged, and facilitate career growth in these work environments.
 
+## Personas 🙋🏻‍♀️
+
+<img src="Images/Early Career.png" alt="Grad Student Persona"/>
+
+<br>
+<img src="Images/Manager.png" alt="Manager Persona"/>
+
 ## Project Structure 🛠️
 
 * **Setup:**
@@ -129,3 +136,21 @@ Here, we can see that people struggled a lot in 2021 and 2022, but by 2023, as h
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+<br>
+## User Research Protocol 📓
+
+**A.Target Audience**
+* Early-Career Professionals: Individuals in their first 1-3 years of work (or entering the workforce soon), balancing productivity, mentorship, and career development in remote/hybrid environments.
+* Managers/Team Leaders: Leaders overseeing employees (particularly early-career professionals) in hybrid/remote models, concerned with engagement, productivity, and team collaboration.
+
+**B.Approach to Identifying Interviewees**
+* I reached out to two students and one manager to gather both perspectives: the new grad employee's experience of navigating productivity and career development in remote/hybrid work, and the manager’s perspective on leading and mentoring employees (particularly early career) in these environments. This ensures a balanced understanding of the challenges and opportunities from both sides, forming the project’s narrative and visualizations.
+
+**C.Questions/Script:**
+
+1. As a grad student entering the job market soon, what part of the story resonates with you the most? Why?
+2. Does the narrative communicate the trade-offs between remote and hybrid work in terms of career development and productivity?
+3. Do the visualizations effectively support and enhance the key points in the story?
+4. Was the flow of the story and visualizations easy to follow? Did the structure make sense?
+5. Do you have any suggestions for improving the user experience in terms of layout, design, or flow?
