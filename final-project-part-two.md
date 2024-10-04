@@ -2,7 +2,7 @@
 
 # The Hybrid Work Solution: Balancing Career Growth and Productivity for Early-Career Professionals
 <br>
-## Outline
+## Outline 🖊️
 
 This project looks at the trade-offs of remote and hybrid work arrangements, with recommendations for early-career professionals. It focuses on how diverse work paradigms affect productivity and career success. It presents hybrid work as a well-balanced option that meets the demands of both flexibility and professional progress by highlighting how managers and employees balance the advantages and disadvantages of each work environment.
 
@@ -28,7 +28,7 @@ Over time, remote work reduced productivity and made it more difficult for profe
 * **Resolution:**
 Hybrid work emerged as a solution, combining remote flexibility with in-person collaboration, improving team relationships, and decreasing struggles like burnout and lack of mentorship.
 
-## High-Fidelity Wireframes
+## High-Fidelity Wireframes ⿻
 
 ### **Setup**
 
