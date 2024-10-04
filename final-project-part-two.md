@@ -153,3 +153,20 @@ Here, we can see that people struggled a lot in 2021 and 2022, but by 2023, as h
 3. Do the visualizations effectively support and enhance the key points in the story?
 4. Was the flow of the story and visualizations easy to follow? Did the structure make sense?
 5. Do you have any suggestions for improving the user experience in terms of layout, design, or flow?
+
+**D.Findings from User Interviews**
+
+1. Graduate student, mid-20s: This student found the challenges of career growth in hybrid environments highly relatable, as they experienced limited in-person interaction and fewer opportunities in their previous job. They appreciated the story arc, stating that it starts with remote work’s impact on productivity and then asks whether remote work affects career growth. They felt the story flow was well-structured, keeping the outcome open and engaging. The student also suggested that a side-by-side comparison visual could make the trade-offs clearer. Additionally, they proposed refining the drop in productivity graph to better emphasize negative trends.
+
+2. Graduate student, mid-20s: This student resonated a lot with the resolution part, particularly how hybrid work improves mentorship, inclusiveness, and team relationships. They found the narrative to be clear but felt it focused too much on the drawbacks of remote work and suggested adding more emphasis on its benefits. They particularly liked the references to sources below each visualization and felt that the two diverse personas at the beginning helped put the story into different perspectives. The student also suggested removing unnecessary visuals (about 2/3rd managers) and noted some minor inconsistencies in subtitles.
+
+3. Manager, mid-40s: The manager mentioned that they resonated with the story's focus on the challenges of mentorship and career growth for early-career employees in remote work environments. They appreciated how the story highlighted the trade-offs between remote and hybrid work, especially in terms of maintaining engagement and fostering professional development. He mentioned that the visualizations were clear and effective, particularly those illustrating the Google Trends data on the rise/demand of hybrid work. The manager noted that the flow from initial productivity gains in remote work to the challenges of career growth and mentorship was logical and easy to follow. However, they suggested that more side-by-side comparisons of remote vs. hybrid work would make the differences more visually apparent.
+
+**E.Changes To Implement**
+1. Side-by-Side Comparison Visuals: Based on feedback from both graduate students and the manager, I will try to implement more side-by-side comparison visualization that clearly shows the trade-offs between remote and hybrid work models, especially in terms of career development and productivity. This will make it easier for viewers to compare the two models visually in a single graphic.
+
+2. Refining the Drop in Productivity Graph: I will update the productivity graph to better emphasize negative trends, particularly where productivity levels decline in remote work. This could involve using more distinct colors or visual cues (such as arrows or highlights) to make the drop more apparent.
+
+3. Removing Unnecessary Visuals: I will remove the visuals related to "2/3rd managers" that was mentioned as unnecessary. Instead, I’ll simply write this in a text format as part of the story.
+
+4. Fixing Minor Inconsistencies: I will address the inconsistencies in subtitles, particularly in terms of formatting and style (e.g., emoticons), to maintain a cohesive output.
