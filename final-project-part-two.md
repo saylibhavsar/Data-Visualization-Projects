@@ -1,4 +1,4 @@
-| [home page](https://saylibhavsar.github.io/Data-Visualization-Projects/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](https://saylibhavsar.github.io/Data-Visualization-Projects/) | [visualizing debt](https://saylibhavsar.github.io/Data-Visualization-Projects/visualizing-government-debt.html) | [critique by design](critique-by-design.md) | [final project I](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-one.html) | [final project II](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-two.html) | [final project III](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-three.html) |
 
 # The Hybrid Work Solution: Balancing Career Growth and Productivity for Early-Career Professionals
 <br>
