@@ -170,3 +170,15 @@ Here, we can see that people struggled a lot in 2021 and 2022, but by 2023, as h
 3. Removing Unnecessary Visuals: I will remove the visuals related to "2/3rd managers" that was mentioned as unnecessary. Instead, I’ll simply write this in a text format as part of the story.
 
 4. Fixing Minor Inconsistencies: I will address the inconsistencies in subtitles, particularly in terms of formatting and style (e.g., emoticons), to maintain a cohesive output.
+
+
+### Navigation 🧭
+[Go back to Home page 🏠](https://saylibhavsar.github.io/Data-Visualization-Projects/)
+
+[Part I: Project Outline and Brainstorming/Sketches](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-one.html)
+
+[Part II: High-Fidelity Visuals and User Research](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-two.html)
+
+[Part III: Final Deliverable](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-three.html)
+
+[Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/the-hybrid-work-solution/index.html#article)
