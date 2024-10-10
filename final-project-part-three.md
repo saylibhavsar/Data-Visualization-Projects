@@ -59,7 +59,7 @@ For this final deliverable, I focused on feedback provided by the professor, cla
 
 * Removing unnecessary infographics that did not communicate anything extra.
 
-<hr>
+
 **Adding a final call to action based on new information:**
 
 * **Adopt Hybrid Work:** Encourage managers to implement hybrid work models that balance flexibility with structured in-office collaboration to boost engagement and productivity.
@@ -101,6 +101,8 @@ In the data story, I also included a quick introduction and personas to help exp
 | [Stanford article](https://drive.google.com/file/d/1kqbngD8pemqxAkZmWCOQ32Yk6PXK9eVA/view) | Measuring drop in productivity during and post covid. |
 | [MentorCliq](https://www.mentorcliq.com/blog/mentoring-stats/) | Definitive Mentorship Statistics and Research for 2024. |
 
+<hr>
+<br>
 
 #### Navigation 🧭
 [Go back to Home page 🏠](https://saylibhavsar.github.io/Data-Visualization-Projects/)
