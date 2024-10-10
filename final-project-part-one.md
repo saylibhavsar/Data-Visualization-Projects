@@ -168,3 +168,14 @@ Finally, my call to action will include actionable strategies for optimizing pro
 * Encouraging flexible work schedules to maintain work-life balance and prevent burnout.
 
 
+### Navigation 🧭
+[Go back to Home page 🏠](https://saylibhavsar.github.io/Data-Visualization-Projects/)
+
+[Part I: Project Outline and Brainstorming/Sketches](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-one.html)
+
+[Part II: High-Fidelity Visuals and User Research](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-two.html)
+
+[Part III: Final Deliverable](https://saylibhavsar.github.io/Data-Visualization-Projects/final-project-part-three.html)
+
+[Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/the-hybrid-work-solution/index.html#article)
+
